@@ -1,1 +1,4 @@
 hello there! I am learning Git and version control.
+
+
+this line is added to check if "git status" works.
